@@ -3,7 +3,7 @@
 
 All the folders will have a README.md file with the course and code to be tested, the files 1_XXXX, 2_XXXX etc... are already created but empty you'll have to copy paste the code manually.
 
-At the end of the course, you can open the "assignment.py" file, all the objectives are described in the comment of this one, there is as well a screenshot with an example of output
+At the end of the course, you can open the folder "assignment_XXX", all the objectives are described in the README.md file, there is, as well, one screenshot with an example in PNG, and the empty xxx.py file for the script.
 
 ## Clone this repo
 
