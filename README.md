@@ -11,7 +11,7 @@ Git is pretty useful when you need to work on scripts or on diagram (draw.io).
 try :
 
 ```git
-git clone https://
+git clone https://gitlab-sjc.cisco.com/nirolin/python_tutorial.git
 ```
 
 It will download and change the branch to your CCO ID branch. Not familiar with Git ? no worry and follow this link :
