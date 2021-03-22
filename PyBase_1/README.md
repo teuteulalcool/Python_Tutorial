@@ -52,7 +52,7 @@ my_var1 = 'Hello World'
 my_var2 = 42
 my_var3 = True
 my_var4 = [1,2,3,4]
-my_var5 = {"Company”: "Cisco", "Location": "ILM"}
+my_var5 = {'Company': 'Cisco', 'Location': 'ILM'}
 my_var6 = 3.14
 
 print(my_var1)
