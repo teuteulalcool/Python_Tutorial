@@ -163,9 +163,9 @@ print('')
 
 Combined with the input() function, you will be able to manipulate numeric variable and send a result.
 
-String variables can use as well two operators : "+" and "*" for concatenations.
+String variables can use as well two operators : "+" and "\*" for concatenations.
 "+" can concatenate only strings if you try to concatenate another type of variable it will raise an error.
-"*" will repeat the same string as many time you mentioned with an integer.
+"\*" will repeat the same string as many time you mentioned with an integer.
 
 it will be more understandable with an example :
 
