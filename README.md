@@ -21,7 +21,7 @@ to play with git ==> <https://learngitbranching.js.org/>
 If the repository is updated with newer contents, you can use the following GIT commands:
 
 ```git
-git fetch
+git pull
 ```
 
 ## IDE (Visual studio or Pycharm)
